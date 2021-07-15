@@ -40,13 +40,30 @@
 }
 
 .iconCenter {
-justify-content: space-between;
+  justify-content: space-between;
 }
 
 .textCenter {
   justify-content: space-between;
-  }
+}
 
 .iconContainer {
   justify-content: space-between;
+}
+
+.contentArea {
+  min-height: 300px;
+}
+
+.techEarth {
+  background-image: url("/src/assets/techEarth.png");
+}
+
+.donationtext {
+  padding-top: 5%;
+  padding-left: 75px;
+}
+
+.donationbuttonhome {
+  padding-left: 5%;
 }

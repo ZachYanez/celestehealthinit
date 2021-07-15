@@ -12,8 +12,7 @@ export default function SplitComponent() {
           <Carousel.Item>
             <Image className="d-block w-100" src={Peach} alt="Third slide" />
             <Carousel.Caption>
-              
-            <Button variant="info">Read More</Button>
+              <Button variant="info">Read More</Button>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>

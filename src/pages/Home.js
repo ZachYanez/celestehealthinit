@@ -5,6 +5,9 @@ import TextBreakHome from "../components/TextBreakHome";
 import TheChallenges from "../components/TheChallenges";
 import Icons from "../components/Icons";
 import SplitComponent from "../components/SplitComponent";
+import HomePic from "../components/HomePic";
+import TechEarth from "../components/TechEarth";
+import HomeFooter from "../components/HomeFooter";
 
 export default function Home() {
   return (
@@ -15,10 +18,9 @@ export default function Home() {
       <TheChallenges />
       <SplitComponent />
       <Icons />
-
-      {/* <div className="whiteSpace ">
-        <Image className="w-100" src={Pic2} />
-      </div> */}
+      <HomePic />
+      <TechEarth />
+      <HomeFooter />
     </div>
   );
 }

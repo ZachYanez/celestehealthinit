@@ -27,6 +27,10 @@ export default function HomeNav() {
           <Button variant="light">Donate</Button>
         </Navbar.Collapse>
       </Navbar>
+      <div className="space"></div>
+      <div className="d-flex justify-content-center" style={{ height: 50 }}>
+        <p>Celeste Health Initiative 2021 | All Rights Reserved</p>
+      </div>
     </div>
   );
 }

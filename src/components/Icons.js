@@ -11,31 +11,33 @@ export default function Icons() {
     <div>
       <div className="justify-content-center">
         <div className="space"></div>
-
+        <div className="row justify-content-center ">
+          <h1>A model for sustainable, co-designed healthcare practices</h1>
+        </div>
         <div className="space"></div>
         <Row className="icons">
-        
           <div className="smalldivider"></div>
           <Col>
             <Image src={icon5}></Image>
 
             <h5 style={{ paddingLeft: 20 }}>Identify inequity</h5>
           </Col>
+
           <Col>
             <Image src={icon6}></Image>
-            <h5 style={{ paddingLeft: 25 }}>Frame design with Stakeholders</h5>
+            <h5 style={{ paddingLeft: 22 }}>Frame design with Stakeholders</h5>
           </Col>
           <Col>
             <Image src={icon7}></Image>
-            <h5 style={{ paddingLeft: 40 }}>Primary Implementation</h5>
+            <h5 style={{ paddingLeft: 0 }}>Primary Implementation</h5>
           </Col>
           <Col>
             <Image src={icon8}></Image>
-            <h5 style={{ paddingLeft: 10 }}>Continuous Iteration</h5>
+            <h5 style={{ paddingLeft: 15 }}>Continuous Iteration</h5>
           </Col>
           <Col>
             <Image src={icon9}></Image>
-            <h5 style={{ paddingLeft: 25 }}>Report and Scale Solution</h5>
+            <h5 style={{ paddingLeft: 20 }}>Report and Scale Solution</h5>
           </Col>
         </Row>
         <div className="space"></div>
