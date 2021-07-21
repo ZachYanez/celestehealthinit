@@ -1,6 +1,6 @@
 import React from "react";
 import { Row, Image } from "react-bootstrap";
-import Pic3 from "../assets/pic3.jpg";
+import Pic3 from "../../assets/pic3.jpg";
 
 export default function HomePic() {
   return (

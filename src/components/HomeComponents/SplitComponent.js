@@ -1,7 +1,7 @@
 import React from "react";
 import { Button, Carousel, Image, Row } from "react-bootstrap";
-import Pic2 from "../assets/croppedAgain.jpg";
-import Peach from "../assets/lightPeach.png";
+import Pic2 from "../../assets/croppedAgain.jpg";
+import Peach from "../../assets/lightPeach.png";
 
 export default function SplitComponent() {
   return (

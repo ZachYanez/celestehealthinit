@@ -28,7 +28,7 @@ export default function HomeNav() {
         </Navbar.Collapse>
       </Navbar>
       <div className="space"></div>
-      <div className="d-flex justify-content-center" style={{ height: 50 }}>
+      <div className="d-flex justify-content-center" style={{ height: 40 }}>
         <p>Celeste Health Initiative 2021 | All Rights Reserved</p>
       </div>
     </div>

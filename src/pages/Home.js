@@ -1,13 +1,13 @@
 import React from "react";
-import HomeNav from "../components/HomeNav";
-import HomeCarouselTop from "../components/HomeCarouselTop";
-import TextBreakHome from "../components/TextBreakHome";
-import TheChallenges from "../components/TheChallenges";
-import Icons from "../components/Icons";
-import SplitComponent from "../components/SplitComponent";
-import HomePic from "../components/HomePic";
-import TechEarth from "../components/TechEarth";
-import HomeFooter from "../components/HomeFooter";
+import HomeNav from "../components/HomeComponents/HomeNav";
+import HomeCarouselTop from "../components/HomeComponents/HomeCarouselTop";
+import TextBreakHome from "../components/HomeComponents/TextBreakHome";
+import TheChallenges from "../components/HomeComponents/TheChallenges";
+import Icons from "../components/HomeComponents/Icons";
+import SplitComponent from "../components/HomeComponents/SplitComponent";
+import HomePic from "../components/HomeComponents/HomePic";
+import TechEarth from "../components/HomeComponents/TechEarth";
+import HomeFooter from "../components/HomeComponents/HomeFooter";
 
 export default function Home() {
   return (

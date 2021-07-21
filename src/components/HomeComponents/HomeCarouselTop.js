@@ -1,6 +1,6 @@
 import React from "react";
 import { Carousel, Image } from "react-bootstrap";
-import Pic1 from "../assets/pic1.jpg";
+import Pic1 from "../../assets/pic1.jpg";
 
 export default function HomeCarouselTop() {
   return (
