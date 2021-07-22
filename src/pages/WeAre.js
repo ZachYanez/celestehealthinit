@@ -1,6 +1,7 @@
 import React from "react";
 import { Nav, Navbar, NavDropdown, Button } from "react-bootstrap";
 import Info from "../components/WeAreComponents/Info";
+import OurHistory from "../components/WeAreComponents/OurHistory";
 import WhoWeAre from "../components/WeAreComponents/WhoWeAre";
 
 export default function WeAre() {
@@ -31,6 +32,7 @@ export default function WeAre() {
       </Navbar>
       <WhoWeAre />
       <Info />
+      <OurHistory/>
     </>
   );
 }

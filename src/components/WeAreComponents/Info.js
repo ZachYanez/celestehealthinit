@@ -13,8 +13,8 @@ export default function Info() {
             The Celeste Health Initiative works to increase access to equitable healthcare for women in underserved popuations.
           </h1>
         </div>
-        <div classname="w-50">
-          //ICON SHOULD GO HERE//
+        <div  style={{ backgroundColor: "#40a4a4"}} className="row w-50">
+          
           <h3>"The Community Underserved Drives Us"</h3>
         </div>
       </Row>

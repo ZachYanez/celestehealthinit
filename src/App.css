@@ -25,7 +25,7 @@
   width: 20px;
 }
 .slide {
-  background-color: peachpuff;
+  background-color: #ffdab9;
   justify-content: "center";
   align-content: "center";
 }
@@ -68,3 +68,8 @@
   padding-left: 5%;
 }
 
+.history {
+  min-height: fit-content;
+  justify-content: center;
+  padding: 1%;
+}
